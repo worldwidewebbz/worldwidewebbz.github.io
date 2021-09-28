@@ -103,6 +103,15 @@ body{
 .todoList li:hover .icon{
   right: 0px;
 }
+.wrapper .listStatus {
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+  background: #A3CB38;
+  opacity: 0.3;
+}
 .wrapper .footer{
   display: flex;
   width: 100%;
