@@ -28,8 +28,6 @@ body{
 .wrapper header{
   font-size: 30px;
   font-weight: 600;
-  width: 100%;
-  display: flex;
 }
 .wrapper .inputField{
   margin: 20px 0;
